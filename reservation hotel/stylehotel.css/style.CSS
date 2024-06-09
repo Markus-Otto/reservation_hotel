@@ -1,6 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-image: url('background-hotel.jpg'); 
+    background-image: url('../imagehotel/background-hotel.jpg'); 
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
